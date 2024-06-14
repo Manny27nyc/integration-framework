@@ -31,7 +31,7 @@
     "@apidevtools/json-schema-ref-parser": "^8.0.0",
     "ajv": "^6.10.2",
     "handlebars": "^4.7.7",
-    "jest": "^26.6.3",
+    "jest": "^29.7.0",
     "jest-expect-message": "1.0.2",
     "jest-junit": "^13.0.0",
     "json-schema-to-typescript": "^10.0.0",
@@ -41,6 +41,6 @@
   },
   "dependencies": {
     "dateformat": "^4.5.1",
-    "url-parse": "^1.5.3"
+    "url-parse": "^1.5.9"
   }
 }
